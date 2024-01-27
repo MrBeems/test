@@ -1,5 +1,5 @@
 ini baris pertama
-hapus line 2
+baris ke 2
 penamabah line3
 line 4
-hapus line 5
+baris ke 5
